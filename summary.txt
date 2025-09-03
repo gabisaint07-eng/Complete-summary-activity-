@@ -1,0 +1,8 @@
+Gabriela Sainthil, HCD(Humanities, Computing, and Design, Long Island NY, and I can play the drums. 
+
+I have little to no experience with progtraming. I had done a bit of coding around the age of 14. In 5th grade I attended a NYIT Summer Step Program but I was basically was forceed to do it. Therefore I didn't feel the enthusiam to learn lik everyone else. So I would say my experience it at a 2. 
+
+Git add= files are added to Git's notebook 
+Git commit=save snapshots with a note 
+Git push=send to GitHub 
+Git edit= vi 
