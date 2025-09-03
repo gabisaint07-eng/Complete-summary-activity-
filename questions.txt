@@ -1,0 +1,14 @@
+Gabriela Sainthil 
+My name is Gabi Saint
+
+I made an empty folder with my name, but it did not show up on GitHub.
+
+I think Git ignores empty folders unless they have files inside.
+
+I moved questions.txt into my name folder and then the folder appeared on GitHub. 
+Now there is only one copy of questions.txt, inside my folder. 
+I think this happened because GitHub only shows folders if they have files in them.
+
+When I deleted questions.txt, Git still remembered it until I used "git rm" 
+and pushed again. Then it was gone from GitHub. 
+I learned that deleting in Git needs the Git workflow too.
