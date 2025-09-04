@@ -1,0 +1,29 @@
+
+gasai@G_C_S MINGW64 ~ (main)
+$ mkdir practicum
+
+gasai@G_C_S MINGW64 ~ (main)
+$ cd practicum
+
+gasai@G_C_S MINGW64 ~/practicum (main)
+$ ls -1
+
+gasai@G_C_S MINGW64 ~/practicum (main)
+$ 1s
+bash: 1s: command not found
+
+gasai@G_C_S MINGW64 ~/practicum (main)
+$ ls
+
+gasai@G_C_S MINGW64 ~/practicum (main)
+$ vi about_me.txt
+
+gasai@G_C_S MINGW64 ~/practicum (main)
+$ cat about_me.txt
+Gabriela Sainthil
+03/05/2007
+Central Islip, NY
+LAUNDRY DAY
+Only When It's Us by Chloe Liese
+"Sometimes YOU will never KNOW the VALUE of a MOMENT until it becomes a MEMORY"-Dr.Seuss
+ 
