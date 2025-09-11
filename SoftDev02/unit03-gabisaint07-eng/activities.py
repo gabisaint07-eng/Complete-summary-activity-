@@ -1,17 +1,31 @@
 import math 
+import random
+
 def squared(x):
     return math.pow(x,2)
 
 def cubed(x):
-    return x ** 3
+    return math.pow(x,3)
+
+def coin_toss():
+    return random.randint(1,2) 
 
 def main():
-    square = squared(4)
-    cube = cubed(4)
+    #square = squarrd(4)
+    #cube = cubed(4)
+    #print ("square of 4 = ", square, "cube = ", cube
+    #print(coin_toss())
+    #print(coin_toss())
+    #print(coin_toss())
+    #print(coin_toss())
+    #print(coin_toss())
+    random.seed(100)
+    print(random.randint(1,100))
+    print(random.randint(50,500))
+    print(random.randint(0))
 
-    print("Square of 4 =", square, "cube =",cube)
-
-main()
+if __name__ == "__main__":
+    main()
 
 # given values
 #d = True 
@@ -32,7 +46,6 @@ main()
 
 #might get a type error if you do something like "1 == 1", cannot compare a string & a numeric value !
 
-#activity 3.4
 # a=5,b=10, c="abc", d="bcd"
 # a == b = False 
 # a!= b =True
