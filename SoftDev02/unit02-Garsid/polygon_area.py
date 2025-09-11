@@ -3,6 +3,8 @@
 #calculate the area based on the radius and the number of sides
 #return the area  
 
+import math
+
 def traingleArea(base, height):
     return base *height* 0.5 
 
@@ -21,7 +23,7 @@ def polygon_area(radius, n):
     angle = polygon_angle(n)
     base = triangle_base(radius, angle)
     height =triangle_height(radius, angle)
-    tArea: triangleArea(base, height)
+    tArea = traingleArea(base, height)
     return tArea * n
 
 
