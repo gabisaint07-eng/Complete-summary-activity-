@@ -1,4 +1,5 @@
 import activities 
+import random
 
 #test_ makes pytest work!
 def test_square_8():
@@ -16,7 +17,23 @@ def test_squared_negative_8():
     x = -8 
     expected = 64
 
-    #invoke 
+    #invoke     def test_coin_toss_heads(): 
+        #setup
+        expected = 2  # This value depends on the seed!
+        random.seed(1)
+        #invoke
+        actual = activities.coin_toss()
+        #analyze
+        assert actual == expected
+    
+    def test_coin_toss_tails():
+        #setup 
+        expected = 2 
+        random.seed(5)
+        #invoke
+        actual = activities.coin_toss()
+        #analyze 
+        assert expected == actual
     actual = activities.squared(x)
 
     #analyze
@@ -51,4 +68,13 @@ def test_coin_toss_heads():
     #analyze
     assert actual == expected
     #this test freakin Stinks because it is random! AND NON REPEATABLE!
-    
+
+def test_coin_toss_tails():
+    #setup 
+    expected = 2 
+    random.seed (5)
+    #invoke
+    actual = activities.coin_toss()
+    #analyze 
+    assert expected == actual
+
