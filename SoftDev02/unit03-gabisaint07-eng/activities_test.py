@@ -17,23 +17,7 @@ def test_squared_negative_8():
     x = -8 
     expected = 64
 
-    #invoke     def test_coin_toss_heads(): 
-        #setup
-        expected = 2  # This value depends on the seed!
-        random.seed(1)
-        #invoke
-        actual = activities.coin_toss()
-        #analyze
-        assert actual == expected
-    
-    def test_coin_toss_tails():
-        #setup 
-        expected = 2 
-        random.seed(5)
-        #invoke
-        actual = activities.coin_toss()
-        #analyze 
-        assert expected == actual
+    #invoke
     actual = activities.squared(x)
 
     #analyze
