@@ -25,15 +25,17 @@ def test_flip_coin_heads_five_times():
         p = 0.8
         expected = 7 
         #invoke
-        result = number_of_draws_for_probabilty(n,p)
-        analyze result == expected 
+        result = probability.number_of_draws_for_probability(n, p)
+        assert result == expected 
     
     #setup
-
+def test_how_many_objects_for_a_twenty_percent_pull_rate():
     p = 0.2
     expected = 5 
     #invoke 
-    actual  = probability.n
+    actual  = probability.n_from_probability(p)
+    #analyze
+    assert actual == expected 
 
 
 
