@@ -20,7 +20,7 @@ def steps():
 """Exercise 3"""
 def miles_per_hour(distance,duration):
     return (distance/(duration/60.0))
-
+   
     
 
 def main():
