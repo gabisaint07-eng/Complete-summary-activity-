@@ -1,4 +1,5 @@
 import skills
+import random
 def test_miles_per_hour():
     val = skills.miles_per_hour(10,12)
     print(10/(12/60.0))
@@ -23,6 +24,14 @@ def test_is_speeding_2():
     print(65>=41)
     print("Car is speeding: ",val)
     return val
+
+"Exercise 5 (for real this time)"
+
+def test_steps():
+    random.seed (20)
+
+def 
+
 
     
 
