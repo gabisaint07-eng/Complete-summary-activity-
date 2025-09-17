@@ -1,5 +1,6 @@
 import skills
 import random
+from skills import steps
 def test_miles_per_hour():
     val = skills.miles_per_hour(10,12)
     print(10/(12/60.0))
@@ -27,13 +28,18 @@ def test_is_speeding_2():
 
 "Exercise 5 (for real this time)"
 
-def test_steps():
-    random.seed (20)
+def test_steps_true():
+    random.seed (50)
+    assert steps() == True
 
-def 
 
+def test_steps_false():
+    random.seed (1)
+    assert steps() == False
 
-    
+def test_steps_exact_goal():
+    random.seed (999)
+    assert steps() == True
 
 
 def main():
@@ -41,6 +47,9 @@ def main():
     test_2()
     test_is_speeding()
     test_is_speeding_2()
+    test_steps_true()
+    test_steps_false()
+    test_steps_exact_goal()
 
 if __name__ == "__main__":
     main()
