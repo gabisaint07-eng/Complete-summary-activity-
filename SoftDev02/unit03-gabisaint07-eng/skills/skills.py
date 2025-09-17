@@ -17,6 +17,11 @@ def steps():
     step_goal=10000
     return (steps_walked>=step_goal)
 
+"""Exercise 3"""
+def miles_per_hour(distance,duration):
+    return (distance/(duration/60.0))
+
+    
 
 def main():
     print('Car is speeding: ', is_speeding(9, 10))
