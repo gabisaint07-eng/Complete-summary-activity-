@@ -1,0 +1,168 @@
+commit 71a013ae5b38e248b9407976a709901dd629cc8e
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Tue Sep 23 20:07:18 2025 -0400
+
+    OnetoThree
+
+commit 718db71e923e7ef56b2789b0731d163edb58b2d1
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Mon Sep 22 22:20:15 2025 -0400
+
+    Exercise 4 fr this timegit add .
+
+commit 1a008630211967a1506a196313b14e54ee1f57cc
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Mon Sep 22 11:35:53 2025 -0400
+
+    Test for Movie Price
+
+commit 06da9ba91789a6d1846362138490ad62e1b6b28b
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Mon Sep 22 11:14:25 2025 -0400
+
+    Exercise-1
+
+commit 3f0a808f27b4781222b7a4317799f80931e42fdc
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Wed Sep 17 08:25:43 2025 -0400
+
+    Finished
+
+commit 62fb1fc00cc3e92ca15c22a4d2298a58f927eb91
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Wed Sep 17 01:11:47 2025 -0400
+
+    night night
+
+commit c2c667eee8f0736b7fcb048bb8b1eec7b386ccc4
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Tue Sep 16 23:30:03 2025 -0400
+
+    Excerise_4*
+
+commit c564cc62a775638001aeb20cb3ea4bf2c1f3ceba
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Tue Sep 16 23:07:13 2025 -0400
+
+    Exercise_5
+
+commit a92c08ebf8c30d2003ece60972e99afc25d033ec
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Mon Sep 15 23:00:29 2025 -0400
+
+    Skillbuilding3
+
+commit 0937b9504f96104064dce6d2abc429fc59413c41
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Fri Sep 12 11:36:28 2025 -0400
+
+    incremental developement
+
+commit 1b3b43c7ff3c5344f51053424825857ebc372227
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Fri Sep 12 10:47:39 2025 -0400
+
+    classwork 3.15
+
+commit a6e08212ec3587b40e886e69a03e9af85d28de91
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Fri Sep 12 10:32:54 2025 -0400
+
+    test_coin_toss
+
+commit a9347d15a70697dd61dcacb01356c8b1d8c29a77
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Thu Sep 11 20:12:05 2025 -0400
+
+    attempt_for_practicum
+
+commit 2aa8ef2554e5507dcfa566590ac04d45adea2222
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Thu Sep 11 19:50:34 2025 -0400
+
+    classwork>
+    )
+
+commit 64c3f85cca64c1eef0ced700edd2160403c87f6b
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Wed Sep 10 20:24:45 2025 -0400
+
+     activitayyy
+
+commit 8020f2a600c43e02cb7266e843530530a673f436
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Wed Sep 10 11:31:55 2025 -0400
+
+    activity_12'
+
+commit 00763231c026ea7c281e669c84c0ed023d6093b0
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Mon Sep 8 19:20:35 2025 -0400
+
+    homework assignmnent
+
+commit 272fcb7afca6e74f5d965d179c097f97a0efb427
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Mon Sep 8 17:59:28 2025 -0400
+
+    Finished classwork
+
+commit b87f8f88f3ee28b000aad2f5e384df5a91a8531b
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Sun Sep 7 17:37:00 2025 -0400
+
+    Finished Exercise X
+
+commit e83de7042d820a064d219ff947663bde9330894a
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Fri Sep 5 12:07:15 2025 -0400
+
+    print distance
+
+commit bcac0fdb7a1b5213120ee5e7c729e72ff2acae82
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Fri Sep 5 11:50:31 2025 -0400
+
+    print total
+
+commit 1a45121a79d14502a18d4386788066c52112815a
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Fri Sep 5 11:17:40 2025 -0400
+
+    cont. line
+
+commit 8b8cc467185b2f34946476c0c9f7e191772290b2
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Fri Sep 5 11:10:13 2025 -0400
+
+    parenthesis
+
+commit 998cf83ac8e968b805dc105d884448a7535b7680
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Thu Sep 4 17:16:02 2025 -0400
+
+    finished!
+
+commit b42889ff5a1b6153bf004c5b70445d03b1a574f1
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Thu Sep 4 16:50:00 2025 -0400
+
+    Add practicum files
+
+commit 0cde4ee4b04e026a91f483ebd5e98f658e22552b
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Tue Sep 2 23:47:09 2025 -0400
+
+    updated questions.txt
+
+commit 5280b6ff7eff5394dbac12db0f6660362a5804f2
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Tue Sep 2 23:01:43 2025 -0400
+
+    first commit
+
+commit c60bef2f094823dd50ca152a1dae9ac0c53b324f
+Author: GabiSaint <gasaint07@gmail.com>
+Date:   Tue Sep 2 22:44:58 2025 -0400
+
+    Completed summary activity
