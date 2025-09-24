@@ -1,0 +1,5 @@
+ ls 
+ __pycache__/          'practice(mini practicum)'   questions.txt
+ activities.py          practice_log.txt            skills/
+ activities_test.py     probability.py
+ :x
