@@ -24,7 +24,6 @@ print (is_even(5))
 
 def check_number(num):
     return 
-        if 
     pass
 print(check_number(4))
 print(check_number(7))
